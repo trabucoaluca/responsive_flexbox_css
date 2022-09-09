@@ -1,0 +1,10 @@
+.contenedor {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.contenedor__mensaje,
+.form {
+  margin: 0 auto;
+  width: 90%;
+}

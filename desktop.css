@@ -1,0 +1,27 @@
+.contenedor__subtitulo {
+  font-size: 3rem;
+}
+
+.contenedor__parrafo {
+  font-size: 2rem;
+}
+
+.contenedor__boton {
+  font-size: 1.8rem;
+}
+
+.form__titulo {
+  font-size: 2.2rem;
+}
+
+.form__iconos {
+  font-size: 2rem;
+}
+
+.form__parrafo {
+  font-size: 1.8rem;
+}
+
+.form__input {
+  font-size: 1.8rem;
+}
